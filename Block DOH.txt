@@ -709,7 +709,7 @@ https://helios.plan9-dns.com/dns-query
 https://home-server.store/dns-query
 https://home.wriedts.de/dns-query
 https://hrk01.dnscry.pt/dns-query
-https://https://dns-doh.dnsforfamily.com/dns-query
+https://dns-doh.dnsforfamily.com/dns-query
 https://ibksturm.synology.me/dns-query
 https://ibuki.cgnat.net/dns-query
 https://ie01.dns4me.net
