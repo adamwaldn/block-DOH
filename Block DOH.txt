@@ -1513,3 +1513,8 @@ zdn.ro
 zero.dns0.eu
 znegindeh2.top
 zneginnl.website
+mozilla.cloudflare-dns.com
+dns.shaw.ca
+doh.xfinity.com
+firefox.dns.nextdns.io
+private.canadianshield.cira.ca
